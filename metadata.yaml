@@ -1,0 +1,36 @@
+_repo: The-books-of-the-Apocrypha-b-their-origin-teaching-and-contents_75434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oesterley, W. O. E. (William Oscar Emil)
+    aliases:
+    - Oesterley, William Oscar Emil
+    - Oesterley, William O. E.
+    birthdate: 1866
+    deathdate: 1950
+    gutenberg_agent_id: '56095'
+    url: http://www.gutenberg.org/2009/agents/56095
+    wikipedia: https://en.wikipedia.org/wiki/W._O._E._Oesterley
+description: ''
+gutenberg_issued: '2025-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75434'
+  lccn: a15000389
+language: en
+pgterms:marc904: https://archive.org/details/booksofapocrypha00oest/mode/2up
+pgterms:marc905: 20200726031934oesterley
+pgterms:marc906: '1915'
+production_note: Brian Coe, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bRobert Scott, $c1915.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bible. Apocrypha -- Introductions'
+- !lcc 'BS'
+- GITenberg
+title: 'The books of the Apocrypha : $b their origin, teaching and contents'
+url: http://www.gutenberg.org/ebooks/75434
