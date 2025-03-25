@@ -1,5 +1,8 @@
 _repo: The-books-of-the-Apocrypha-b-their-origin-teaching-and-contents_75434
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75434-h/images/cover.jpg
 creator:
   author:
     agent_name: Oesterley, W. O. E. (William Oscar Emil)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56095
     wikipedia: https://en.wikipedia.org/wiki/W._O._E._Oesterley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75434#The-books-of-the-Apocrypha-b-their-origin-teaching-and-contents
 gutenberg_issued: '2025-02-21'
 gutenberg_type: Text
 identifiers:
